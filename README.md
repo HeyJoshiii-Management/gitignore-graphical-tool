@@ -1,4 +1,4 @@
-# HeyJoshii Gitignore Graphical Tool
+# HeyJoshiii Gitignore Graphical Tool
 
 Entwicklung des grafischen Tools zum generieren der Gitignore-Dateien für unsere Git-Repositories des Minecraft Server-Deployments.
 
